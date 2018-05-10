@@ -6,7 +6,7 @@
 
 Learn of HTML & CSS and how to build a page from scratch.
 
-- [LIVECODE] Start an HTML & CSS project
+- [*LIVECODE*] Start an HTML & CSS project
 - HTML syntax
 - CSS syntax
 - [LIVECODE] Build the HTML of your landing page
