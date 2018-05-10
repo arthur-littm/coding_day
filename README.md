@@ -6,12 +6,12 @@
 
 Learn of HTML & CSS and how to build a page from scratch.
 
-- [*LIVECODE*] Start an HTML & CSS project
+- [**LIVECODE**] Start an HTML & CSS project
 - HTML syntax
 - CSS syntax
-- [LIVECODE] Build the HTML of your landing page
+- [**LIVECODE**] Build the HTML of your landing page
 - CSS technics (box model, flexbox)
-- [LIVECODE] Design your landing page
+- [**LIVECODE**] Design your landing page
 
 #### 11am to 2pm - Challenges & Lunch
 
@@ -22,10 +22,10 @@ Learn of HTML & CSS and how to build a page from scratch.
 Learn how to add cool plugins and APIs to your project.
 
 - What's an API
-- [LIVECODE] Add Gmaps to your landing page
-- [LIVECODE] Add Mailchimp to your landing page
-- [LIVECODE] Add Trello to your landing page
-- [LIVECODE] deploy your landing page on Github Pages
+- [**LIVECODE**] Add Gmaps to your landing page
+- [**LIVECODE**] Add Mailchimp to your landing page
+- [**LIVECODE**] Add Trello to your landing page
+- [**LIVECODE**] deploy your landing page on Github Pages
 
 #### 4pm to 6pm - Challenges
 
